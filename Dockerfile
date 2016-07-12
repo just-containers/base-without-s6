@@ -1,4 +1,4 @@
-FROM ubuntu-debootstrap:14.04.3
+FROM ubuntu:14.04.4
 MAINTAINER Gorka Lerchundi Osa <glertxundi@gmail.com>
 
 ##

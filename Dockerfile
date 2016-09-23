@@ -1,4 +1,4 @@
-FROM ubuntu:14.04.4
+FROM ubuntu:14.04.5
 MAINTAINER Gorka Lerchundi Osa <glertxundi@gmail.com>
 
 ##
